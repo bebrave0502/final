@@ -1,5 +1,5 @@
 package finalpj;
 
 public class finaljava {
-	private km = 0;fffff
+	private km = 0;fffffjjjjj
 }
